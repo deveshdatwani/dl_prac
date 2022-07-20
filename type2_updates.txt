@@ -1,0 +1,49 @@
+﻿DEVESH DATWANI 
+Worcester, MA 01609 | dbdatwani@wpi.edu | (978) 809 5026
+http://www.deveshdatwani.com | https://www.github.com/deveshdatwani | https://www.linkedin.com/in/deveshdatwani
+___________________________________________________________________________________________________________
+OBJECTIVE
+Ms in robotics engineering student at the Worcester Polytechnic Institute seeking full time co-op roles in robot perception 
+SKILLS
+LANGUAGES Python 3+ • MATLAB • C/C++ • HTML-CSS
+SOFTWARE STACK ROS 1 & 2 • Git • OpenCV • TensorFlow • AWS • Django & Flask • Vim • Linux • SolidWorks • AutoCad  
+HARDWARE STACK Arduino Uno • Raspberry Pi 3+
+CERTIFICATIONS Python Programming • Robotics: Aerial Vehicles •  Applied Machine Learning • Introduction To Self Driving Cars
+EDUCATION
+MASTER OF SCIENCE IN ROBOTICS ENGINEERING
+WORCESTER POLYTECHNIC INSTITUTE | WORCESTER, MA
+AUG 2021 - MAY 2023 
+Key Courses: Machine Learning • Computer Vision • Artificial Intelligence • AI For Autonomous Vehicles • Robot Dynamics 
+BACHELOR OF ENGINEERING IN MECHANICAL ENGINEERING
+APSIT MUMBAI UNIVERSITY | MUMBAI, INDIA
+AUG 2014 - MAY 2018
+Notable Achievement: Received “Young Innovator Award” for experiments with Plasma Actuators at the ICASTe conference
+RELEVANT EXPERIENCE
+DESIGN & PERCEPTION ENGINEER
+SPACE GOAT (WORCESTER POLYTECHNIC INSTITUTE)
+SEP 2021 - JAN 2022 | WORCESTER, MA
+* Competed at the NASA Extreme Terrain Challenge 2022 to build a Mars rover while representing Worcester Polytechnic Institute  
+* Actively contributed in the design of a rover that tackles the challenges of traversing the Martian surface
+* Integrated sensors with the rover and contributed to the firmware code for rover-environment perception 
+ENGINEERING PROJECTS
+HUMAN POSE ESTIMATION WITH CNN [GITHUB]
+MAR 2022 - MAY 2022 | WORCESTER POLYTECHNIC INSTITUTE                    
+* Implemented the DeepPose paper to build a convolution neural network to estimate human body pose in 2 dimensions
+* Created a TensorFlow pipeline to fetch and load the FLIC dataset and train an AlexNet on a Google Colab kernel 
+* Observed convergence after 100 epochs and recorded mean squared error values of ~ 421 
+TRAFFIC SIGN DETECTION WITH MASK R-CNN [GITHUB]
+SEP 2021 - DEC 2021 | WORCESTER POLYTECHNIC INSTITUTE
+* Implemented adaptations to the Mask R-CNN network to enhance its performance in detecting traffic signs
+* Augmented a dataset of 10,000+ traffic sign images to create motion blur and condensation effect to improve model performance
+* Helped enhance mAP values of the r-cnn model  from 0.05 to 0.25 on custom dataset after training it on the augmented dataset  
+AERIAL VEHICLE DESIGN AND FLIGHT TESTING [PROJECT DOC]
+2011 - 2020 | MUMBAI, INDIA
+* Designed, fabricated and flight-tested remotely operated fixed-wing planes and quad copters
+* Experimented with different power-plant, wing, composite material and electronic configurations 
+* Gained hands on experience with aerodynamics, electronics and fabrication involved in aerial vehicle design after 200+ flights 
+AIR FLOW INDUCTION WITH PLASMA ACTUATORS (APPLIED PATENT) [PROJECT VIDEO]
+2017 - 2018 | MUMBAI UNIVERSITY
+* Designed a research project on plasma actuators to induce air flow without the use of any moving elements 
+* Sourced high voltage transformer 
+* Designed and fabricated a plasma actuator inside hollow pipes with the pipe acting as a dielectric medium
+* Observed and recorded wall bounded jet air flows of around 9000 litres/hr
